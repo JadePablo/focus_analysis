@@ -11,6 +11,16 @@ Face-recording done with opencv.
 Analysis done with pandas, matplotlib and seaborn.
 
 Findings:
+![](https://github.com/JadePablo/focus_analysis/blob/main/the%20goodies/graph%201.PNG)
+
+![](https://github.com/JadePablo/focus_analysis/blob/main/the%20goodies/graph%202.PNG)
+
+![](https://github.com/JadePablo/focus_analysis/blob/main/the%20goodies/graph%203.PNG)
+
+![](https://github.com/JadePablo/focus_analysis/blob/main/the%20goodies/findings%201.PNG)
+
+![](https://github.com/JadePablo/focus_analysis/blob/main/the%20goodies/findings%202.PNG)
+
 
 
 
