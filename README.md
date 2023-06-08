@@ -2,7 +2,7 @@
 
 This repository contains a script for recording your face, csv files of the data I got while running the script and a python notebook analysing the data.
 
-Comparing performance reading with/without any visual distractions.
+**Overview**: Comparing performance reading with/without any visual distractions.
 
 Details of the face-recording script can be found in the file: 'main.py'
 
