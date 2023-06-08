@@ -4,7 +4,7 @@ This repository contains a script for recording your face, csv files of the data
 
 Details of the face-recording script can be found in the file: 'main.py'
 
-Analysis can be found in the notebook: '
+Analysis can be found in the notebook: 'focus_analysis.pynb'
 
 
 
